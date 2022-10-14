@@ -1,0 +1,4 @@
+/* Importando 3 conjuntos/bibliotecações*/
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
